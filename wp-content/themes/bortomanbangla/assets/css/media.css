@@ -1,0 +1,396 @@
+@media only screen and (min-width: 1200px){
+	.container {
+        max-width: 1300px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px){
+    body.mean-active .mean-bar {
+        margin-top: -204px !important;
+        margin-right: 35% !important;
+        z-index: 111;
+    }
+    .mean-bar {
+        margin-right: 802px !important;
+    }
+    div#splw-location-weather-69 {
+        left: 26%;
+    }
+    .bortoman-bangla-top-title h2 {
+        font-size: 16px;
+    }
+	.bortoman-bangla-top-more-image {
+        width: 150px;
+        margin-right: 5px;
+    }
+    .bortoman-bangla-top-more-title h4 {
+        font-size: 14px;
+    }
+    .bortoman-bangla-national-image {
+        width: 150px;
+        margin-right: 10px;
+    }
+    .business-title li {
+        font-size: 15px;
+    }
+    .lmb-title ul li {
+        font-size: 15px;
+    }
+	.footer-subscriber input[type="text"] {
+        margin-right: 0px;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .footer-subscriber input[type="submit"] {
+        width: 40%;
+        margin-left: 27%;
+    }
+}
+@media (min-width: 768px) and (max-width: 991.98px){
+    body.mean-active .mean-bar {
+        margin-top: -166px !important;
+        margin-right: 15% !important;
+        z-index: 111;
+    }
+    div#splw-location-weather-69 {
+        left: 34%;
+    }
+    .social-icon {
+        padding-top: 15px;
+    }
+    .bortoman-bangla-fbpage {
+        margin-top: 20px;
+    }
+    .netional-video-area .bortoman-bangla-national-wapper {
+        margin-top: 30px;
+    }
+    .bortoman-bangla-national-wapper {
+        margin-top: 25px;
+    }
+    .bortoman-bangla-video {
+        margin-top: 25px;
+    }
+    .footer-wapper:first-child {
+        margin-bottom: 25px;
+    }
+	.author-image {
+        width: 25%;
+        margin: 0 auto;
+    }
+    .single-post-inner {
+        display: flex;
+        width: 70%;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+    .single-post-left {
+        margin-right: 110px;
+    }
+    .bortoman-bangla-star-image.star-one img {
+        height: 300px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    body.mean-active .mean-bar {
+        margin-top: -138px !important;
+        margin-right: -23% !important;
+        z-index: 111;
+    }
+    div#splw-location-weather-69 {
+        left: 46%;
+    }
+    .social-icon {
+        padding-top: 15px;
+    }
+    .bortoman-bangla-video iframe {
+        height: 230px;
+    }
+    .bortoman-bangla-star-image.star-one img {
+        height: 280px;
+    }
+    .bortoman-bangla-top-more-image img {
+        height: 110px;
+    }
+    .bortoman-bangla-top-storise-wapper {
+        margin-bottom: 20px;
+    }
+    .bortoman-bangla-fbpage {
+        margin-top: 20px;
+    }
+    .netional-video-area .bortoman-bangla-national-wapper {
+        margin-top: 0px;
+    }
+	.footer-wapper:first-child {
+        margin-bottom: 25px;
+    }
+    .footer-copy-inner.deelko {
+        margin-top: 10px;
+    }
+    .author-image {
+        width: 25%;
+        margin: 0 auto;
+    }
+    .single-post-inner {
+        display: flex;
+        width: 70%;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+    .single-post-left {
+        margin-right: 110px;
+    }
+    .single-post-inner {
+        width: 100%;
+    }
+    .right-pagination {
+        margin-left: 0%;
+    }
+    #rpwwt-recent-posts-widget-with-thumbnails-3 img {
+        width: 110px !important;
+    }
+    #rpwwt-recent-posts-widget-with-thumbnails-2 img {
+        width: 110px !important;
+    }
+}
+@media (min-width: 480px) and (max-width: 575.98px){ 
+    .logo-image a img {
+        width: 30%;
+        margin-left: 35%;
+    }
+    body.mean-active .mean-bar {
+        margin-top: -127% !important;
+        margin-right: -25% !important;
+        z-index: 111;
+    }
+    div#splw-location-weather-69 {
+        left: 50%;
+    }
+    .bortoman-bangla-top-more-image img {
+        height: 95px;
+    }
+    .netional-video-area .bortoman-bangla-national-image img {
+        height: 95px;
+    }
+    .play-video-area .bortoman-bangla-national-image img {
+        height: 95px;
+    }
+    .bortoman-bangla-star-image.star-one img {
+        height: 250px;
+    }
+    .col-lg-3.col-md-6.col-sm-6 .bortoman-bangla-top-storise-wapper {
+        width: 100% !important;
+    }
+    .international-area .bortoman-bangla-top-image img {
+        height: 300px;
+    }
+    .social-icon {
+        padding-top: 15px;
+    }
+    .bortoman-bangla-top-storise-wapper {
+        margin-bottom: 20px;
+    }
+    .bortoman-bangla-fbpage {
+        margin-top: 20px;
+    }
+    .netional-video-area .bortoman-bangla-national-wapper {
+        margin-top: 0px;
+    }
+    .business-wapper {
+        margin-bottom: 10px;
+    }
+    .lmb-wapper {
+        margin-bottom: 15px;
+    }
+    iframe:first-child {
+        margin-bottom: 10px;
+    }
+    .footer-wapper:first-child {
+        margin-bottom: 25px;
+    }
+    .footer-copy-inner.deelko {
+        margin-top: 10px;
+    }
+    .col-lg-3.col-md-6.col-sm-6 .bortoman-bangla-top-storise-wapper {
+        float: left;
+        width: 48%;
+    }
+    .col-lg-3.col-md-6.col-sm-6 .bortoman-bangla-top-storise-wapper:first-child {
+        margin-right: 15px;
+    }
+    .author-image {
+        width: 25%;
+        margin: 0 auto;
+    }
+    .single-post-inner {
+        display: flex;
+        width: 70%;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+    .single-post-left {
+        margin-right: 110px;
+    }
+    .single-post-inner {
+        width: 100%;
+    }
+    .right-pagination {
+        margin-left: 0%;
+    }
+    .bortoman-bangla-top-image.category-image img {
+        height: 280px;
+    }
+}
+@media (min-width: 420px) and (max-width: 479px){
+    .logo-image a img {
+        width: 50%;
+        margin-left: 25%;
+    }
+    body.mean-active .mean-bar {
+        margin-top: -333px !important;
+        margin-right: -31% !important;
+        z-index: 111;
+    }
+    div#splw-location-weather-69 {
+        left: 55%;
+    }
+    .social-icon {
+        padding-top: 15px;
+    }
+    .bortoman-bangla-top-storise-wapper {
+        margin-bottom: 20px;
+    }
+    .bortoman-bangla-fbpage {
+        margin-top: 20px;
+    }
+    .netional-video-area .bortoman-bangla-national-wapper {
+        margin-top: 0px;
+    }
+    .business-wapper {
+        margin-bottom: 10px;
+    }
+    .lmb-wapper {
+        margin-bottom: 15px;
+    }
+    iframe:first-child {
+        margin-bottom: 10px;
+    }
+    .footer-wapper:first-child {
+        margin-bottom: 25px;
+    }
+    .footer-copy-inner.deelko {
+        margin-top: 10px;
+    }
+    .col-lg-3.col-md-6.col-sm-6 .bortoman-bangla-top-storise-wapper {
+        float: left;
+        width: 48%;
+    }
+    .col-lg-3.col-md-6.col-sm-6 .bortoman-bangla-top-storise-wapper:first-child {
+        margin-right: 15px;
+    }
+    .author-image {
+        width: 25%;
+        margin: 0 auto;
+    }
+    .single-post-inner {
+        display: flex;
+        width: 70%;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+    .single-post-left {
+        margin-right: 110px;
+    }
+    .single-post-inner {
+        width: 100%;
+    }
+    .right-pagination {
+        margin-left: 0%;
+    }
+    .single-post-left {
+        margin-right: 0px; 
+    }
+    .single-post-inner{
+        display: unset;
+    }
+    .single-post-inner {
+        width: 100%;
+        text-align: center;
+    }
+	
+}
+@media (min-width: 320px) and (max-width: 419px){
+    .logo-image a img {
+        width: 50%;
+        margin-left: 25%;
+    }
+    .mean-container .mean-nav {
+        width: 70%;
+    }
+    body.mean-active .mean-bar {
+        margin-top: -292px !important;
+        margin-right: -98% !important;
+        z-index: 111;
+    }
+    div#splw-location-weather-69 {
+        left: 63%;
+    }
+    .social-icon {
+        padding-top: 15px;
+    }
+    .bortoman-bangla-top-storise-wapper {
+        margin-bottom: 20px;
+    }
+    .bortoman-bangla-fbpage {
+        margin-top: 20px;
+    }
+    .netional-video-area .bortoman-bangla-national-wapper {
+        margin-top: 0px;
+    }
+    .business-wapper {
+        margin-bottom: 10px;
+    }
+    .lmb-wapper {
+        margin-bottom: 15px;
+    }
+    iframe:first-child {
+        margin-bottom: 10px;
+    }
+    .footer-wapper:first-child {
+        margin-bottom: 25px;
+    }
+    .footer-copy-inner.deelko {
+        margin-top: 10px;
+    }
+    .author-image {
+        width: 25%;
+        margin: 0 auto;
+    }
+    .single-post-inner {
+        display: flex;
+        width: 70%;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+    .single-post-left {
+        margin-right: 110px;
+    }
+    .single-post-inner {
+        width: 100%;
+    }
+    .right-pagination {
+        margin-left: 0%;
+    }
+    .single-post-left {
+        margin-right: 0px; 
+    }
+    .single-post-inner{
+        display: unset;
+    }
+    .single-post-inner {
+        width: 100%;
+        text-align: center;
+    }
+	
+}
+

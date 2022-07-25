@@ -1,0 +1,76 @@
+[04-Aug-2021 23:44:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/bartomanba/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/bartomanba/public_html/wp-includes/template-canvas.php on line 12
+[08-Aug-2021 07:14:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/bartomanba/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/bartomanba/public_html/wp-includes/template-canvas.php on line 12
+[09-Aug-2021 07:08:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/bartomanba/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/bartomanba/public_html/wp-includes/template-canvas.php on line 12
+[09-Aug-2021 23:20:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/bartomanba/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/bartomanba/public_html/wp-includes/template-canvas.php on line 12
+[09-Aug-2021 23:50:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/bartomanba/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/bartomanba/public_html/wp-includes/template-canvas.php on line 12
+[10-Aug-2021 03:49:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/bartomanba/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/bartomanba/public_html/wp-includes/template-canvas.php on line 12
+[11-Aug-2021 03:18:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/bartomanba/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/bartomanba/public_html/wp-includes/template-canvas.php on line 12
+[11-Aug-2021 13:51:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/bartomanba/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/bartomanba/public_html/wp-includes/template-canvas.php on line 12
+[12-Aug-2021 04:31:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/bartomanba/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/bartomanba/public_html/wp-includes/template-canvas.php on line 12
+[12-Aug-2021 10:32:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/bartomanba/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/bartomanba/public_html/wp-includes/template-canvas.php on line 12
+[16-Aug-2021 03:04:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/bartomanba/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/bartomanba/public_html/wp-includes/template-canvas.php on line 12
+[17-Aug-2021 07:17:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/bartomanba/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/bartomanba/public_html/wp-includes/template-canvas.php on line 12
+[17-Aug-2021 08:06:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/bartomanba/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/bartomanba/public_html/wp-includes/template-canvas.php on line 12
+[17-Aug-2021 15:16:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/bartomanba/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/bartomanba/public_html/wp-includes/template-canvas.php on line 12
+[17-Aug-2021 16:58:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/bartomanba/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/bartomanba/public_html/wp-includes/template-canvas.php on line 12
+[18-Aug-2021 08:01:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/bartomanba/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/bartomanba/public_html/wp-includes/template-canvas.php on line 12
+[18-Aug-2021 20:21:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/bartomanba/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/bartomanba/public_html/wp-includes/template-canvas.php on line 12
+[18-Aug-2021 20:22:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/bartomanba/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/bartomanba/public_html/wp-includes/template-canvas.php on line 12
+[19-Aug-2021 08:16:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/bartomanba/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/bartomanba/public_html/wp-includes/template-canvas.php on line 12

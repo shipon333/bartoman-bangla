@@ -1,0 +1,4 @@
+[03-Feb-2021 06:17:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/bartomanb/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home1/bartomanb/public_html/wp-content/plugins/hello.php on line 69
